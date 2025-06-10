@@ -7,7 +7,7 @@ GoodReads ([https://www.goodreads.com/](https://www.goodreads.com/)) adalah situ
 ## 📈 Tentang Data
 Dalam proyek ini, kami melakukan scrapping data dari 2 list pada website GoodReads:
 - 🌎 [Best books ever (worldwide)](https://www.goodreads.com/list/show/1.Best_Books_Ever?page=)
-- 🆔 [Buku Indonesia Terbaik Sepanjang Sejarah]((https://www.goodreads.com/list/show/1572.Buku_Indonesia_Sepanjang_Masa?page=))
+- 🆔 [Buku Indonesia Terbaik Sepanjang Sejarah](https://www.goodreads.com/list/show/1572.Buku_Indonesia_Sepanjang_Masa?page=)
 
 Tahapan pengerjaan adalah sebagai berikut
 
@@ -15,7 +15,9 @@ Tahapan pengerjaan adalah sebagai berikut
 
 ### Scrapping Data
 Scrapping dilakukan menggunakan Python dengan library BeautifulSoup. Python digunakan agar proses scraping dapat dikustomisasi sesuai dengan kebutuhan analisis.
-Link program scraping data:
+
+[Link program scraping data](https://github.com/logankusuma/goodreads_scrape/blob/main/Scrape_Goodreads.ipynb?short_path=8506729)
+
 
 ### Penyimpanan MongoDB
 Data hasil Scrapping selanjutnya disimpan dalam MongoDB untuk pengolahan dan agregasi lebih lanjut. MongoDB dipilih karena mampu menangani data besar dan semi-terstruktur secara fleksibel dan efisien.
@@ -28,6 +30,7 @@ Data yang disimpan dalam MongoDB adalah sebagai berikut
 Berikut hasil analisis agregasi dan text analysis yang kami lakukan seputar rating dan genre buku di GoodReads
 
 [Link Canva](https://www.canva.com/design/DAGp9nwnbxQ/OM4MGuziG6Dk56XFr7plcw/edit?utm_content=DAGp9nwnbxQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## 🧑‍💻 Tentang Kami
 Anggota Kelompok:
