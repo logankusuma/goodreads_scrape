@@ -1,4 +1,4 @@
-<img width="290" alt="Screenshot 2025-06-10 220307" src="https://github.com/user-attachments/assets/0e1553d5-c786-4e5a-a426-d2d7a88a73cf" /># Membaca Data: Mengungkap Distribusi Rating dan Genre Buku di GoodReads
+# Membaca Data: Mengungkap Distribusi Rating dan Genre Buku di GoodReads
 ![lovely-asian-young-lady-portriat-happy-woman-lifestyle-concept](https://github.com/user-attachments/assets/212e6450-9075-4fd4-946d-c119debd5d68)
 
 ## 📔 Tentang GoodReads
