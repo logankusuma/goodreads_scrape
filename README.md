@@ -34,7 +34,7 @@ Berikut hasil analisis agregasi dan text analysis yang kami lakukan seputar rati
 
 ## 🧑‍💻 Tentang Kami
 Anggota Kelompok:
-- Andi Illa Erviani Nensi (M0501241035)
+- [Andi Illa Erviani Nensi](https://github.com/Andiilla) (M0501241035)
 - [Jasmin Nur Hanifa](https://github.com/heyitsjasmin) (M0501241060)
 - [Logananta Puja Kusuma](https://github.com/logankusuma) (M0501241028)
 - [Meavi Cintani](https://github.com/meavi2501cintani) (M0501241040)
