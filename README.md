@@ -2,12 +2,12 @@
 ## 📔 Tentang GoodReads
 ![1_N1k6cmyD9h99w4S-CEaKXw](https://github.com/user-attachments/assets/a11b923c-1839-4be7-a67b-63e7c9d9865a)
 
-GoodReads ([https://www.goodreads.com/]) adalah situs terbesar di dunia bagi para pembaca dan rekomendasi buku. Misi situs ini adalah membantu pembaca menemukan buku yang mereka sukai dan mendapatkan lebih banyak manfaat dari membaca. GoodReads menyediakan ribuan judul buku dengan berbagai informasi sehingga banyak hal yang dapat diungkap dari scraping data pada situs tersebut. Salah satu fitur dari GoodReads adalah **List** yang memungkinkan pembaca melakukan voting pada buku sesuai dengan kriteria tertentu.
+GoodReads ([https://www.goodreads.com/](https://www.goodreads.com/)) adalah situs terbesar di dunia bagi para pembaca dan rekomendasi buku. Misi situs ini adalah membantu pembaca menemukan buku yang mereka sukai dan mendapatkan lebih banyak manfaat dari membaca. GoodReads menyediakan ribuan judul buku dengan berbagai informasi sehingga banyak hal yang dapat diungkap dari scraping data pada situs tersebut. Salah satu fitur dari GoodReads adalah **List** yang memungkinkan pembaca melakukan voting pada buku sesuai dengan kriteria tertentu.
 
 ## 📈 Tentang Data
 Dalam proyek ini, kami melakukan scrapping data dari 2 list pada website GoodReads:
-- 🌎 [Best books ever (worldwide)]([https://www.goodreads.com/list/show/1.Best_Books_Ever?page=])
-- 🆔 [Buku Indonesia Terbaik Sepanjang Sejarah]([[url](https://www.goodreads.com/list/show/1572.Buku_Indonesia_Sepanjang_Masa?page=)])
+- 🌎 [Best books ever (worldwide)](https://www.goodreads.com/list/show/1.Best_Books_Ever?page=)
+- 🆔 [Buku Indonesia Terbaik Sepanjang Sejarah]((https://www.goodreads.com/list/show/1572.Buku_Indonesia_Sepanjang_Masa?page=))
 
 Tahapan pengerjaan adalah sebagai berikut
 
@@ -26,12 +26,13 @@ Data yang disimpan dalam MongoDB adalah sebagai berikut
 
 ## 📚 Tentang Buku
 Berikut hasil analisis agregasi dan text analysis yang kami lakukan seputar rating dan genre buku di GoodReads
-[Link Canva]([https://www.canva.com/design/DAGp9nwnbxQ/OM4MGuziG6Dk56XFr7plcw/edit?utm_content=DAGp9nwnbxQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
+
+[Link Canva](https://www.canva.com/design/DAGp9nwnbxQ/OM4MGuziG6Dk56XFr7plcw/edit?utm_content=DAGp9nwnbxQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🧑‍💻 Tentang Kami
 Anggota Kelompok:
 - Andi Illa Erviani Nensi (M0501241035)
-- [Jasmin Nur Hanifa]([https://github.com/heyitsjasmin]) (M0501241060)
-- [Logananta Puja Kusuma]([https://github.com/logankusuma]) (M0501241028)
-- [Meavi Cintani]([https://github.com/meavi2501cintani]) (M0501241040)
-- [Yeky Abil Nizar]([https://github.com/Yekyabilnizar]) (M0501241043)
+- [Jasmin Nur Hanifa](https://github.com/heyitsjasmin) (M0501241060)
+- [Logananta Puja Kusuma](https://github.com/logankusuma) (M0501241028)
+- [Meavi Cintani](https://github.com/meavi2501cintani) (M0501241040)
+- [Yeky Abil Nizar](https://github.com/Yekyabilnizar) (M0501241043)
